@@ -43,7 +43,7 @@
 
 </td><td valign="top" width="33%">
 
-### <div align="right">Others</div>  
+### Others  
   
 
 <div align="center">  
